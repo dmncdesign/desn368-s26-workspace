@@ -1,8 +1,52 @@
+main {
+  max-width: 800px; /* change this at will */
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 18px;
+}
+
 body {
-  font-family: 'Open Sans', sans-serif;
-  background-color: linen;
+  background-color: papayawhip;
 }
 
 h1, h2, h3 {
   font-family: 'Playfair Display', serif;
+  font-size: 24px;
+  color: #853434;
+}
+
+section {
+  background-color: white;
+  border: 3px solid #EBAA71;
+  padding: 20px;
+  margin: 20px;
+}
+
+img {
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid #B56409;
+}
+
+header {
+  background-color: white;
+  padding: 20px;
+}
+
+.ingredients-list {
+  background-color: #fafafa;
+}
+
+footer {
+  text-align: center;
+}
+
+ul {
+  list-style-type: square;
+}
+
+a:link {
+  color: #B56409;
 }
