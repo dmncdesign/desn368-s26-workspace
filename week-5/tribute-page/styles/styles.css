@@ -1,0 +1,99 @@
+main {
+  max-width: 800px; /* change this at will */
+  margin: 0 auto;
+  padding: 20px;
+  color: white;
+}
+
+header {
+  max-width: 800px; /* change this at will */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+footer {
+  max-width: 800px; /* change this at will */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  font-family: "Alegreya SC", "Georgia", "sans-serif"
+}
+
+p {
+  text-align: center;
+  font-family: "Lato", "serif"
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  line-height: 25px;
+  font-family: "Lato";
+}
+
+#producer p {
+  font-style: italic;
+}
+
+main section {
+  background-color: rgba(0, 0, 0, 0.80);
+  margin-bottom: 40px;
+  padding: 10px;
+}
+
+#timeline h3 {
+  background-color: #833232;
+  text-align: center;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+blockquote {
+  padding: 25px;
+  font-family: Lato;
+  font-style: italic;
+  border-left: 5px solid #833232;
+}
+
+h2 {
+  text-decoration: underline 5px solid #833232;
+  text-underline-offset: 8px;
+  font-weight: 400;
+}
+
+#producer h3 {
+  margin-bottom: 8px;
+  margin-top: 30px;
+}
+
+#producer p {
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+header, footer {
+  background-color: rgba(0, 0, 0, 0.75);
+  margin-bottom: 40px;
+  padding: 10px;
+  color: white;
+}
+
+body {
+  background-image: url("/week-5/tribute-page/images/topo_red_v1.png");
+}
+
+img {
+  display: block;
+  margin: auto;
+  border: 5px solid #833232;
+}
+
+a:link {
+  color: white;
+}
