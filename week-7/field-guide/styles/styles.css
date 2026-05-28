@@ -208,11 +208,13 @@ a:hover {
 
 header {
   background-image: url('../images/sa2_header.png');
-  max-width: 100%;
   height: auto;
   background-position: center;
   padding-top: 40px;
   background-repeat: no-repeat;
+  width: 100%;
+  margin: 0;
+  background-size: cover;
 }
 
 .difficulty li {
@@ -225,7 +227,7 @@ header {
   list-style-position: inside;
 }
 
-button {
+.button {
   background: linear-gradient(to right, #0BBAF8, #181F6E);
   width: 200px;
   height: 50px;
@@ -234,6 +236,8 @@ button {
   text-shadow: 1px -1px 0px #A9FFFF80;
   font-size: 24px;
   border: 2px solid #A9FFFF80;
+  text-align: center;
+  padding-top: 5px;
 }
 
 button:hover {

@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 1px -1px 0px #0A0E33;
+  margin-bottom: 50px;
+  background: #0BBAF8;
+  padding: 20px;
+  border: 2px solid #FFFFFF;
+  border-radius: 10px;
+}
+
+h1, h2, h3 {
+  font-family: Anton;
+  color: #FFFFFF;
+  text-shadow: 1px -1px 0px #0A0E33;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+h3 {
+  font-size: 32px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+body {
+  font-family: Montserrat;
+  font-weight: 500;
+  background: #0A0E33;
+  margin: 50px;
+}
+
+p {
+  padding: 10px;
+}
+
+.text-box {
+  background: #F0DA85;
+  border: 5px solid #FF8601;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.deco {
+  position: relative;
+  pointer-events: none;
+}
+
+.deco img {
+  position: absolute;
+  width: 125px;
+  height: auto;
+  z-index: -1;
+  inset-inline-start: 50px;
+  inset-block-start: -15px;
+}
+
+#deco-1 img {
+  inset-inline-start: 160px;
+}
+
+#deco-2 img {
+  inset-inline-start: 220px;
+}
+
+#deco-3 img {
+  inset-inline-start: 200px;
+}
+
+#deco-4 img {
+  inset-inline-start: 175px;
+}
+
+#deco-5 img {
+  inset-inline-start: 220px;
+}
+
+.button {
+  background: linear-gradient(to right, #0BBAF8, #181F6E);
+  width: 200px;
+  height: 50px;
+  font-family: Anton;
+  color: #0A0E33;
+  text-shadow: 1px -1px 0px #A9FFFF80;
+  font-size: 24px;
+  border: 2px solid #A9FFFF80;
+  text-align: center;
+  padding-top: 5px;
+  text-decoration: none;
+}
+
+button:hover {
+   color: #FFFFFF;
+  text-shadow: 1px -1px 0px #0A0E33;
+}
