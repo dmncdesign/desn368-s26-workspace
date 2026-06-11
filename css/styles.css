@@ -11,7 +11,7 @@ html {
 
 body {
   background-color: #1B1B1E;
-  background-image: url(https://snipboard.io/W72hK1.jpg);
+  background-image: url(../images/background-port.png);
   background-size: contain;
 }
 
@@ -74,7 +74,7 @@ a:hover {
 }
 
 #hero {
-  background-image: url(https://snipboard.io/Z96UVN.jpg);
+  background-image: url(../images/purplewave.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -126,7 +126,7 @@ a:hover {
 #skills li {
   font-family: "special elite", "serif";
   padding: 3px;
-  list-style-image: url(https://snipboard.io/O2kplu.jpg);
+  list-style-image: url(../images/starimg.png);
 }
 
 #code-portfolio {
