@@ -7,7 +7,7 @@ Created new README.md using the template
 Created css/ folder for portfolio styles [x]
 Created images/ folder for portfolio images [x] 
 All week-XX folders are still in root (not moved) [x]
-All links in learning-log.html still work
+All links in learning-log.html still work [x]
 
 Part 2: Visual Design (Figma)
 Revisited original "Moodz and Vibes" file [x]
@@ -28,7 +28,7 @@ Project Card: Product Landing Page (thumbnail + title + description + link) [x]
 External links (GitHub profile, LinkedIn, socials)
 Footer with copyright [x]
 Footer with AI/Integrity statement (if applicable) [x]
-Link to Learning Log somewhere in navigation or footer
+Link to Learning Log somewhere in navigation or footer [x]
 
 Part 4: Portfolio Build — Technical
 Semantic HTML (<header>, <nav>, <main>, <section>, <article>, <footer>) [x]
@@ -40,11 +40,12 @@ At least one CSS transition on interactive element (hover state, button, card) [
 Link states styled (a:link, a:visited, a:hover, a:active) [x]
 Custom favicon installed and visible in browser tab
 All images have descriptive alt text [x]
-Site is live on GitHub Pages
+Site is live on GitHub Pages [x]
 Tested on mobile (or narrow browser window) [x]
 
 Part 5: Reflection
-Created reflection page (linked from portfolio) 
+Created reflection page (linked from portfolio) [x]
+
 The Threshold: Answered in 3-5 sentences minimum [x]
 The Pit: Answered in 3-5 sentences minimum [x]
 The Pivot: Answered in 3-5 sentences minimum [x]
@@ -64,18 +65,20 @@ Added link to Figma file
 Deleted the "How to Use" comment block at top
 
 Part 7: Submission
-Pushed all changes to GitHub
-GitHub Pages site is live and working
-Submitted Canvas: Link to live portfolio
-Submitted Canvas: Link to GitHub repository
-Submitted Canvas: Link to Figma file
+Pushed all changes to GitHub [x]
+GitHub Pages site is live and working [x]
+Submitted Canvas: Link to live portfolio [x]
+Submitted Canvas: Link to GitHub repository [x]
+Submitted Canvas: Link to Figma file [x]
 
 Part 8: Presentation Prep (June 11th @ 10:30 AM)
-I can explain my design choices (typography, color, vibe)
-I have one piece of code I'm proud of and can talk about
-I can describe my "Threshold" moment
+I can explain my design choices (typography, color, vibe) [x]
+I have one piece of code I'm proud of and can talk about [x]
+I can describe my "Threshold" moment [x]
 
 Final Gut Check
-Does my portfolio look like ME?
-Would I be comfortable showing this to a potential employer or client?
-Did I actually build this, or just copy-paste without understanding?
+Does my portfolio look like ME?  [x]
+
+Would I be comfortable showing this to a potential employer or client? [x]
+
+Did I actually build this, or just copy-paste without understanding? [x]
